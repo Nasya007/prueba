@@ -1,0 +1,20 @@
+{
+    "name": "Pruebita",
+    "short_name" : "Prueba",
+    "img" :[
+        {
+            "src" : "img/perritos.png",
+            "sizes": "192x192",
+            "type" : "image/png"
+        },
+        {
+            "src" : "img/perritos.png",
+            "sizes": "256x256",
+            "type" : "image/png"
+        }
+    ],
+    "description" : "Mi primer intento",
+    "start_url" : "index.html",
+    "display" : "standalone",
+    "background-color" : "#616161"
+}
