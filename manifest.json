@@ -1,7 +1,7 @@
 {
     "name": "Pruebita",
     "short_name" : "Prueba",
-    "img" :[
+    "icons" :[
         {
             "src" : "img/perritos.png",
             "sizes": "192x192",
