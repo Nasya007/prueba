@@ -8,7 +8,8 @@ const APP_SHELL=[
     "js/main.js",
     "js/script1.js",
     "js/script2.js",
-    "img/perritos.png"
+    "img/perritos.png",
+    "img/icon.png"
 ]
 //En el evento install se agregan los archivos a la caché, se ejecuta cuando se abre la app automatica
 self.addEventListener("install",(e)=>{
